@@ -44,3 +44,8 @@ catch
 {
     Console.WriteLine("What did you do?");
 }
+finally
+{
+    Console.WriteLine("Done!");
+}
+Console.Write("");
