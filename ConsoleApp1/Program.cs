@@ -1,6 +1,5 @@
 ﻿//Tootia
 //Practice1
-/*
 try
 {
     Console.Clear();
@@ -50,7 +49,7 @@ finally
     Console.WriteLine("Done!");
 }
 Console.Write("");
-*/
+
 
 //Practice2
 Console.ForegroundColor = ConsoleColor.DarkCyan;
